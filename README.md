@@ -3,15 +3,15 @@
 </div>
 <img src="https://imagizer.imageshack.com/img924/8493/j8Nu5J.png">
 <div align="center">
-  <h1>Creador de <a href = "https://jonniergrajalesalzate.github.io/RECIPLANET_IESA/">Reciplanet</a></h1>
+  <h1>primer proyecto <a href = "https://jonniergrajalesalzate.github.io/RECIPLANET_IESA/">Reciplanet</a></h1>
   <h2>Developer since 2022</h2>
 </div>
 
 
 ## Sobre mi
 - 💻 Web developer
-- Aprovecho el tiempo haciendo historia ⏳
-<br>
+- conocimiento en React, Vite, Python, Tailwind, SQL, VSCODE
+- <br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
