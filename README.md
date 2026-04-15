@@ -1,24 +1,63 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.instagram.com/jonni.g21/">Jonnier Grajales</a> 👋</h1>
+
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hola+soy+Jonnier+Grajales;Web+Developer+💻;React+%7C+Python+%7C+SQL+🚀;Aprendiendo+nuevas+tecnologías+🔥" />
+
 </div>
-<img src="https://imagizer.imageshack.com/img924/8493/j8Nu5J.png">
+
+---
+
 <div align="center">
-  <h1>primer proyecto <a href = "https://jonniergrajalesalzate.github.io/RECIPLANET_IESA/">Reciplanet</a></h1>
-  <h2>Developer since 2022</h2>
+  <img src="https://imagizer.imageshack.com/img924/8493/j8Nu5J.png" width="600"/>
 </div>
 
+---
 
-## Sobre mi
-- 💻 Web developer
-- conocimiento en React, Vite, Python, Tailwind, SQL, VSCODE
-- <br>
+<div align="center">
+  <h2>Primer Proyecto web</h2>
+  <a href="https://jonniergrajalesalzate.github.io/RECIPLANET_IESA/">
+    <img src="https://img.shields.io/badge/🌱%20Reciplanet-Visitar%20Proyecto-00C853?style=for-the-badge"/>
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Developer%20since-2022-blue?style=for-the-badge"/>
+</div>
 
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🧠 Sobre mí
+
+💻 Desarrollador web apasionado  
+🚀 Enfocado en crear soluciones reales  
+📚 Aprendiendo constantemente nuevas tecnologías  
+⚡ Interesado en IA + Desarrollo Web  
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,vite"/>
+</p>
+
+### ⚙️ Backend & Lenguajes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs"/>
+</p>
+
+### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,github"/>
+</p>
+
+---
+
+## 📫 Contacto
 
 <p align="center">
-<a href="https://github.com/JonnierGrajalesAlzate">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonnierGrajalesAlzate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonnierGrajalesAlzate&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://www.instagram.com/jonni.g21/">
+    <img src="https://img.shields.io/badge/Instagram-@jonni.g21-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
+---
