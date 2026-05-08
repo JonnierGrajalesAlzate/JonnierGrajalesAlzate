@@ -15,8 +15,8 @@
 
 <div align="center">
   <h2>Primer Proyecto web</h2>
-  <a href="https://jonniergrajalesalzate.github.io/RECIPLANET_IESA/">
-    <img src="https://img.shields.io/badge/🌱%20Reciplanet-Visitar%20Proyecto-00C853?style=for-the-badge"/>
+  <a href="https://jonniergrajalesalzate.github.io/Red2.0/">
+    <img src="https://img.shields.io/badge/%20Nood-Visitar%20Proyecto-00C853?style=for-the-badge"/>
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Developer%20since-2022-blue?style=for-the-badge"/>
